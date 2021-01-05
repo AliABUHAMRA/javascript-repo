@@ -310,9 +310,17 @@ console.log("Agnes" || "user")
 
 يعمل عامل التشغيل && بنفس الطريقة ولكن بالاتجاه المعاكس. عندما تكون القيمة على يسار التعبير عبارة تتحول إلى خطأ ، سيتم إرجاع نفس القيمة إلى اليسار ، وإلا سيتم تقييم القيمة الموجودة على اليمين وإرجاعها.
 
-ميزة أخرى مهمة لهذين العاملين هو أن تعبيرهما إلى اليمين لا يتم تقييمه إلا عند الحاجة. 
+خاصية أخرى مهمة لهذين المشغلين هي أن الجزء الموجود على حقهما لا يتم تقييمه إلا عند الضرورة, 
+
+ In the case of `true || X`, no matter what `X` is—even if it’s a piece of program that does something _terrible_—the result will be true, and `X` is never evaluated. The same goes for `false && X`, which is false and will ignore `X`. This is called _short-circuit evaluation_. 
+
+### Summary
+
+نظرنا في أربعة أنواع من قيم JavaScript في هذا الفصل: الأرقام ، والسلاسل ، والمنطقية ، والقيم غير المعرفة.
+
+ Such values are created by typing in their name \(`true`, `null`\) or value \(`13`, `"abc"`\). You can combine and transform values with operators. We saw binary operators for arithmetic \(`+`, `-`, `*`, `/`, and `%`\), string concatenation \(`+`\), comparison \(`==`, `!=`, `===`, `!==`, `<`, `>`, `<=`, `>=`\), and logic \(`&&`, `||`\), as well as several unary operators \(`-` to negate a number, `!` to negate logically, and `typeof` to find a value’s type\) and a ternary operator \(`?:`\) to pick one of two values based on a third value.
 
 
 
-
+هذا القدر من المعلومات كافٍ لاستخدام JavaScript كآلة حاسبة للجيب ولا شيء أكثر من ذلك. في الفصل التالي سنبدأ بدمج هذه العبارات حتى نتمكن من وضع الخطط الأساسية.
 
