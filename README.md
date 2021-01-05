@@ -1,1 +1,2 @@
-# javascript-repo
+# Initial page
+
