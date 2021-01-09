@@ -770,7 +770,7 @@ let list = {
 
 ستبدو الأشياء في السلسلة كما يلي:
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 من الأشياء الجيدة في القوائم أنها تشترك في جزء من هيكلها.                                                                   if I create two new values `{value: 0, rest: list}` and `{value: -1, rest: list}` \(with `list` referring to the binding defined earlier\),     كلاهما قائمتان مستقلتان ، لكنهما يشتركان في البنية التي تشكل العناصر الثلاثة الأخيرة. القائمة الأصلية لا تزال قائمة صالحة من ثلاثة عناصر.
 
