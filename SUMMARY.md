@@ -11,7 +11,7 @@
 * [Project: A Robot](untitled-5.md)
 * [Bugs and Errors](untitled-6.md)
 * [Regular Expressions](untitled-7.md)
-* [Modules](untitled-8.md)
+* [Modules النماذج](untitled-8.md)
 * [Asynchronous Programming](untitled-9.md)
 * [Project: A Programming Language](untitled-10.md)
 * [JavaScript and the Browser](untitled-11.md)
