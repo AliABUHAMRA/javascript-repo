@@ -4,7 +4,7 @@
 
 > Brian Kernighan and P.J. Plauger, The Elements of Programming Style
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 في برامج الكمبيوتر ، يُشار إلى الأخطاء عادةً باسم الأخطاء. هذه التسمية منطقية للمبرمجين لأنهم يفكرون في عيوب البرنامج كحشرات صغيرة تزحف داخل البرنامج. بالطبع ، لقد أنشأنا هذه الأخطاء بأنفسنا.
 
