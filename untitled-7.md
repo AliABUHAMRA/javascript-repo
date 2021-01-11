@@ -12,7 +12,7 @@
 
   
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 
 
@@ -299,7 +299,7 @@ console.log(animalCount.test("15 pigchickens"));
 
 يتعامل محرك JavaScript مع التعبير العادي مثل مخطط انسيابي للمطابقة. الرسم البياني أدناه هو مثال لحيوان:
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 يتطابق تعبيرنا إذا تمكنا من إيجاد مسار من الجانب الأيسر للشكل إلى الجانب الأيمن. نحتفظ بالموقع الحالي في السلسلة ، وفي كل مرة نتحرك فيها عبر مربع ، نتحقق من أن جزء السلسلة بعد موضعنا الحالي يطابق هذا المربع.
 
@@ -328,7 +328,7 @@ console.log(animalCount.test("15 pigchickens"));
 
 /\(\[01\]+\)+b/
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 
 
