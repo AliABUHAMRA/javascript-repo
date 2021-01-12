@@ -4,7 +4,7 @@
 
 > Edsger Dijkstra, The Threats to Computing Science
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 في فصول "المشروع" ، لن أقدم مؤقتًا أي شيء جديد ، وبدلاً من ذلك سنعمل معًا لبناء برنامج. النظرية ضرورية للبرمجة ، لكن قراءة وفهم البرامج الحقيقية لا تقل أهمية.
 
